@@ -1,0 +1,24 @@
+{
+	"list": [{
+			"id": 1,
+			"userEmail": "1111@qq.com",
+			"userNicename": "张三",
+			"userLanguage": "en",
+			"regDate": "2020-03-09 09:09:09",
+			"regFrom": "qq",
+			"emailTrue": 0,
+			"mobileTrue": 0
+		},
+		{
+			"id": 2,
+			"userEmail": "222@qq.com",
+			"userNicename": "李四",
+			"userLanguage": "zh",
+			"regDate": "2020-03-09 10:10:10",
+			"regFrom": "wx",
+			"emailTrue": 0,
+			"mobileTrue": 0
+		}
+	],
+	"pageTotal": 2
+}

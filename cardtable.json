@@ -1,0 +1,26 @@
+{
+	"list": [{
+			"id": 1,
+			"brandName": "海绵宝宝",
+			"brandEnglishName": "SpongeBob",
+			"supplierName": "Tango",
+			"cardMoney": "$100.00",
+			"ratio": 4.5,
+			"cashRatio": 0.1,
+			"sort": 1,
+			"status": "停用"
+		},
+		{
+			"id": 2,
+			"brandName": "派大星",
+			"brandEnglishName": "Patrick Star",
+			"supplierName": "Tango",
+			"cardMoney": "$100.00",
+			"ratio": 4.5,
+			"cashRatio": 0.1,
+			"sort": 1,
+			"status": "启用"
+		}
+	],
+	"pageTotal": 2
+}

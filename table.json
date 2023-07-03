@@ -1,0 +1,36 @@
+{
+	"list": [{
+			"id": 1,
+			"buytime": "2020-03-09 10:25:30",
+			"email": "xxx@163.com",
+			"orderNumber": 1234567890,
+			"brandName": "Nike",
+			"cardMoney": "$100.00",
+			"getMoney": "￥670.70（$95.00*7.06)",
+			"payMoney": 91.00,
+			"buyCard": 90.50,
+			"fee": 0.05,
+			"ratio": 4.5,
+			"supplierName": "Tango",
+			"typebycustomer": "已发放",
+			"typebysupplier": "Success"
+		},
+		{
+			"id": 2,
+			"buytime": "2020-03-09 10:25:30",
+			"email": "xxx@163.com",
+			"orderNumber": 1234567890,
+			"brandName": "Nike",
+			"cardMoney": "$100.00",
+			"getMoney": "￥670.70（$95.00*7.06)",
+			"payMoney": 91.00,
+			"buyCard": 90.50,
+			"fee": 0.05,
+			"ratio": 4.5,
+			"supplierName": "Tango",
+			"typebycustomer": "待付款",
+			"typebysupplier": "Error"
+		}
+	],
+	"pageTotal": 2
+}
